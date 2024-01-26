@@ -1,0 +1,7 @@
+.list-item {
+    display: flex;
+    flex-direction: row;
+    gap:8px;
+
+    border-bottom: 1px solid #DEE2E6;
+}

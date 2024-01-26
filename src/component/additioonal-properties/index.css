@@ -1,0 +1,23 @@
+.properties {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+.properties__list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.properties__item {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+}
+
+.properties__item-title {
+  font-size: 20px;
+  font-weight: bold;
+}

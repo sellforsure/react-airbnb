@@ -1,0 +1,17 @@
+.attraction {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.attraction__item {
+    color: #000;
+    font-size: 16px;
+
+    padding: 8px;
+    border-bottom: 1px solid #DEE2E6;
+}
+
+.attraction__item:hover {
+    text-decoration: none;
+}
